@@ -13,7 +13,7 @@ This project focuses on analyzing movie reviews to determine their sentiment (po
   - Text preprocessing (cleaning and vectorization)
   - Exploratory Data Analysis (EDA)
   - Feature engineering using text-based approaches
-  - Machine learning model implementation and evaluation
+  - Machine learning model implementation and evaluation.
 
 ---
 
